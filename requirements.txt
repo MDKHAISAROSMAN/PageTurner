@@ -1,0 +1,4 @@
+unstructured[pdf]
+langchain-core
+langchain-ollama
+langchain-chroma
