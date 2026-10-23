@@ -108,11 +108,11 @@ The application is intended to answer questions using information retrieved from
 
 **Input query:**
 
-> How many attention heads does the Transformer use, and what is the dimension of each head?
+> Explain Transformer?
 
 **Example response:**
 
-> The Transformer uses 8 attention heads, with each head having a key and value dimension of 64, as described in *Attention Is All You Need*.
+> The Transformer is a neural network architecture designed for sequence-to-sequence tasks, such as machine translation. It is notable for its use of self-attention mechanisms and the absence of recurrent layers, which makes it highly parallelizable and efficient......
 
 The answer should be checked against the retrieved document context to verify its accuracy.
 
